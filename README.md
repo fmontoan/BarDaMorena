@@ -2,7 +2,7 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-acesse">Acesse aqui!</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -44,10 +44,10 @@ OriginSix é uma página institucional no formato One Page, responsiva, para usa
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/YJ21RnZoelU6tthwExzMVP/Origin-Six). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## 📝 Licença
+## 📄 Acesse
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+Você pode acessar minha versão do site em produção [aqui.](https://fmontoan.github.io/BarDaMorena/)
 
 ---
 
-Feito com ♥ byFelipe Montoan
+Feito by Felipe Montoan
